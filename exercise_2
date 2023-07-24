@@ -1,0 +1,12 @@
+#Number 8
+print(5+3)
+print(4*2)
+print(9-1)
+print(16/2)
+
+#Favorite number
+message = "My favorite number is 8."
+print(message)
+
+#Zen
+import this
